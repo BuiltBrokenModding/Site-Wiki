@@ -1,0 +1,6 @@
+[submodule "ICBM-Wiki"]
+	path = ICBM-Wiki
+	url = https://github.com/BuiltBrokenModding/ICBM-Wiki.git
+[submodule "MBD-Wiki"]
+	path = MBD-Wiki
+	url = https://github.com/BuiltBrokenModding/MBD-Wiki.git
