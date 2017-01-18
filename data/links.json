@@ -1,0 +1,6 @@
+ {
+    "_comment": "Links are replace keys used to replace text in pages with links to other sites or other wiki pages",
+    "links":{
+        "minecraft": { "url":"minecraft.net", "text":"Minecraft" }
+    }  
+}    

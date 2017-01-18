@@ -1,0 +1,14 @@
+{   
+    "_comment": "Which wikis to process duing build time",
+    "jobs":
+    {
+        "icbm":
+        {
+            "directory":"./ICBM-Wiki"
+        },
+        "mbd":
+        {
+            "directory":"./MBD-Wiki"
+        }
+    }    
+}
