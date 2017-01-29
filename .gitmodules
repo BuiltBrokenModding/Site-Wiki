@@ -4,3 +4,9 @@
 [submodule "MBD-Wiki"]
 	path = MBD-Wiki
 	url = https://github.com/BuiltBrokenModding/MBD-Wiki.git
+[submodule "SBM-Wiki"]
+	path = SBM-Wiki
+	url = https://github.com/BuiltBrokenModding/SBM-Wiki.git
+[submodule "Wiki-Template"]
+	path = Wiki-Template
+	url = https://github.com/BuiltBrokenModding/Wiki-Template.git
